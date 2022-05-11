@@ -1,0 +1,49 @@
+header h1 {
+    font-size: 40pt;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+nav {
+    font-size: 18pt;
+    width: 150px;
+    float: left;
+
+
+
+}
+nav a {
+    display: block;
+    margin: 5px -20px;
+    color:green;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 10px;
+    text-align: center;
+    justify-content: space-around;
+
+
+    
+    
+}
+section {
+    margin-left: 170px;
+    display: flex;
+
+
+}
+.sec {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.cont {
+    border: solid 1px;
+    margin: 2px;
+    padding: 8px;
+    align-items: center;
+
+
+}
